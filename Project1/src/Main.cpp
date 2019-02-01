@@ -26,7 +26,5 @@ int main(){
 	*a = 5;
 	a = (int*)&maxage;
 
-	print(*a);
-
 	cin.get();
 }
