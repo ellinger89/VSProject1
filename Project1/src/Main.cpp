@@ -2,6 +2,7 @@
 # include <string>
 using namespace std;
 
+/*
 template<typename T>
 void print(T x) {
 	cout << x << endl;
@@ -16,17 +17,11 @@ public:
 			return(size);
 	}
 };
-
+*/
 
 int main(){
 
-	const int maxage = 90;
-
-	int*a = new int;
-	*a = 5;
-	a = (int*)&maxage;
-
-	print(*a);
+	cout << "hello CMake!" << endl;
 
 	cin.get();
 }
