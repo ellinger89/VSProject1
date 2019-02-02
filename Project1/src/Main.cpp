@@ -21,13 +21,11 @@ public:
 
 int main(){
 
-<<<<<<< HEAD
-	const int maxage = 90;
-
-	int*a = new int;
-	*a = 5;
-	a = (int*)&maxage;
-=======
+	// will this change show up in the next pull?
+	std::cout << "some online changes" std::endl;
+	
+	// end of testchange
+	
 	cout << "hello CMake!" << endl;
 >>>>>>> 670268975ccbd5742b4cfca9c523b3f99dfef6e4
 
