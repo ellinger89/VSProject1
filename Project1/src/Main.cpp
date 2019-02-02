@@ -27,7 +27,7 @@ int main(){
 	// end of testchange
 	
 	cout << "hello CMake!" << endl;
->>>>>>> 670268975ccbd5742b4cfca9c523b3f99dfef6e4
+
 
 	cin.get();
 }
